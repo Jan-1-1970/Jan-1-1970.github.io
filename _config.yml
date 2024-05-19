@@ -1,0 +1,10 @@
+lsi: false
+safe: true
+source: https://github.com/Jan-1-1970/Jan-1-1970.github.io
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
